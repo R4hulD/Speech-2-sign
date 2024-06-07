@@ -25,7 +25,7 @@
   <li>Run the main Python file using the command: <code>python main.py</code>.</li>
   <li>The application interface appears on the screen.</li>
   <li>Select either "Indian Sign Language" or "American Sign Language".</li>
-  <li>Hit the record button to start taking speech as input.</li>
+  <li>Speak into the microphone to start taking speech as input.</li>
   <li>The speech is processed, and the respective outputs (GIFs and text) are shown.</li>
   <li>To exit the application, say "exit".</li>
 </ol>
